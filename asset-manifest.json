@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfoliosite/static/css/main.94617b1e.css",
+    "main.js": "/portfoliosite/static/js/main.ea4e0bd4.js",
+    "static/media/selfme.png": "/portfoliosite/static/media/selfme.3d0b7a574db7693b69c7.png",
+    "static/media/glyphicons-halflings-regular.svg": "/portfoliosite/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/yes.jpg": "/portfoliosite/static/media/yes.3d3e6f2332b6862fdd4e.jpg",
+    "static/media/AbhishekResume2023.pdf": "/portfoliosite/static/media/AbhishekResume2023.44723122a5381cbcea64.pdf",
+    "static/media/glyphicons-halflings-regular.ttf": "/portfoliosite/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/portfoliosite/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/portfoliosite/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/portfoliosite/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "index.html": "/portfoliosite/index.html",
+    "main.94617b1e.css.map": "/portfoliosite/static/css/main.94617b1e.css.map",
+    "main.ea4e0bd4.js.map": "/portfoliosite/static/js/main.ea4e0bd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94617b1e.css",
+    "static/js/main.ea4e0bd4.js"
+  ]
+}
