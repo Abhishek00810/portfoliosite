@@ -4,8 +4,11 @@ import Myname from "./Myname";
 import Aboutme from "./Aboutme";
 import Portfolio from "./Portfolio";
 import Resume from "./Resume"
+import Contact from "./Contact"
 import AOS from "aos";
 import "aos/dist/aos.css";
+import Technology from "./technology";
+import Footer from "./Footer";
 
 function App() {
   useEffect(() => {
@@ -30,9 +33,13 @@ function App() {
         <h2 className="subheading">YouTodo</h2>
         <Portfolio />
       </div>
-
+      <div data-aos="fade-up" data-aos-duration="2000">
       <Aboutme />
       <Resume />
+      <Footer />
+      </div>
+      
+
     </div>
   );
 }
