@@ -22,6 +22,5 @@ app.post("/portfoliosite", function(req, res){
 
 app.listen(8080, function(req, res)
 {
-
     console.log("Connected to 8080 port")
 })
